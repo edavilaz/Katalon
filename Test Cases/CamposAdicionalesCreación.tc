@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Creación de un campo adicional de tipo texto</description>
+   <name>CamposAdicionalesCreación</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29cdd94d-467f-4254-bf24-b430496d8848</testCaseGuid>
+</TestCaseEntity>

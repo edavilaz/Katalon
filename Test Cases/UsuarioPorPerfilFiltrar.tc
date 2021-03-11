@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filtrar un usuarios por el perfil</description>
+   <name>UsuarioPorPerfilFiltrar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>442a454f-90b5-436b-a231-406fcb0dca79</testCaseGuid>
+</TestCaseEntity>

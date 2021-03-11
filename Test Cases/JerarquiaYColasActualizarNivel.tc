@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para actualizar un nivel de una cola creada</description>
+   <name>JerarquiaYColasActualizarNivel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de904123-5747-4096-a04d-04d46f07a4e9</testCaseGuid>
+</TestCaseEntity>

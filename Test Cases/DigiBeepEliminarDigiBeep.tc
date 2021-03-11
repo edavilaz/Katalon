@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para eliminar digibeep</description>
+   <name>DigiBeepEliminarDigiBeep</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b07d557b-f032-416d-955d-8de1df8cc8a3</testCaseGuid>
+</TestCaseEntity>

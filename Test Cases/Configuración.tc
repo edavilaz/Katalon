@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Acceso a las opciones de configuración
+Iconos completos y con imagen</description>
+   <name>Configuración</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2409aa2-1b3c-49fa-ba5e-124b9332ed8d</testCaseGuid>
+</TestCaseEntity>

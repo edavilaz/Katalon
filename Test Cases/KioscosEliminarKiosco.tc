@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para eliminar un kiosco</description>
+   <name>KioscosEliminarKiosco</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a31bd995-aec0-4f9f-af67-9993fc3d7f4a</testCaseGuid>
+</TestCaseEntity>

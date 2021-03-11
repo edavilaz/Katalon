@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Permite ver los valores creados en el sistema</description>
+   <name>ConsultarUsuarios</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ef576d0-8331-4d65-888f-61d22078ae11</testCaseGuid>
+</TestCaseEntity>

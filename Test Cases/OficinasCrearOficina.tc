@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Crear una oficina nueva</description>
+   <name>OficinasCrearOficina</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b2e1b1a-7086-41a0-a240-4badb8067913</testCaseGuid>
+</TestCaseEntity>

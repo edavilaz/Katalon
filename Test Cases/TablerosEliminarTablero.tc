@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para eliminar un tablero</description>
+   <name>TablerosEliminarTablero</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff566222-772b-425a-8f67-76fbf8d44ac9</testCaseGuid>
+</TestCaseEntity>

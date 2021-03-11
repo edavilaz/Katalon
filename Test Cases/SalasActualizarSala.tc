@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para actualizar una sala existente, en el ejemplo se le cambia el nombre a la sala</description>
+   <name>SalasActualizarSala</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1c30c5b-9530-458d-a872-cbeb5c5c2510</testCaseGuid>
+</TestCaseEntity>

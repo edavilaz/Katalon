@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Eliminar un perfeil existente</description>
+   <name>Perfiles Eliminar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac6e5a15-3818-4ab3-ab10-7f437456f10e</testCaseGuid>
+</TestCaseEntity>

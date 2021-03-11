@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para eliminar el grupo creado &quot;Grupo Actualizado&quot;</description>
+   <name>GruposEliminarGrupo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34fcd64f-9252-4abc-81c1-618987f1c4c4</testCaseGuid>
+</TestCaseEntity>

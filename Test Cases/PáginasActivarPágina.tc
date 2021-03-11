@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para activar una página (página seguridad)</description>
+   <name>PáginasActivarPágina</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43a5daad-9252-4a27-8ccd-2095c50d7b21</testCaseGuid>
+</TestCaseEntity>

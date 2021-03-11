@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para ver logs del sistema de acuerdo a fechas</description>
+   <name>LogsDeSistema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee1d0ec1-9158-4a7b-bf76-a31cdd3ca632</testCaseGuid>
+</TestCaseEntity>

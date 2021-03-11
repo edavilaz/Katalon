@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pagina de acceso informacion a cliente
+Iconos completos y con imagen</description>
+   <name>DatosComplementarios</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2232198-001f-4d23-89be-6dd084d8cbf7</testCaseGuid>
+</TestCaseEntity>

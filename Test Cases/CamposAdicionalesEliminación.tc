@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Eliminación de un campo adicional creado anteriormente</description>
+   <name>CamposAdicionalesEliminación</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f90c6383-b9db-4939-870b-6731bd2dac28</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para crear una terminal nueva</description>
+   <name>TerminalesCrearTerminal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b3fd136-829b-4c1f-922d-609de4508fc6</testCaseGuid>
+</TestCaseEntity>

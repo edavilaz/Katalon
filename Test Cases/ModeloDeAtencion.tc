@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Describe el modelo de atención del sistema
+Iconos completos y con imagen</description>
+   <name>ModeloDeAtencion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c783658d-3cd1-4271-8783-7e549dfa5392</testCaseGuid>
+</TestCaseEntity>

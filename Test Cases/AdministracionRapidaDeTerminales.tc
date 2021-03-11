@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para la gestion de terminales</description>
+   <name>AdministracionRapidaDeTerminales</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc33facd-d05b-4c02-aa1c-b6681a812490</testCaseGuid>
+</TestCaseEntity>

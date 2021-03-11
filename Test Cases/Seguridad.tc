@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Seguridad del Sistema
+Iconos Completos y con imagen</description>
+   <name>Seguridad</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>388c1113-ee46-4d84-9e32-3a7e562bf76c</testCaseGuid>
+</TestCaseEntity>

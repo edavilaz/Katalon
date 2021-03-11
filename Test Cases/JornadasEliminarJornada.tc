@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Procesos para eliminar una jornada</description>
+   <name>JornadasEliminarJornada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e36481e3-33c2-4865-b0fe-9918b0f201eb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Habilitar página para que se muestre y configurar una alarma</description>
+   <name>SistemasAlarmas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a333a4c6-4879-4035-bc31-3d0f5858fdfe</testCaseGuid>
+</TestCaseEntity>

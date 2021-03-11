@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para eliminar terminal</description>
+   <name>TerminalesEliminarTerminal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9cd7b58-183f-4642-b02f-b01d97decb88</testCaseGuid>
+</TestCaseEntity>

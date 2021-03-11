@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Configuraciones del Sistema
+Iconos Completos y con imagen</description>
+   <name>Sistema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f9bd6c3-05ef-4c42-b5b4-183fab8a19a6</testCaseGuid>
+</TestCaseEntity>

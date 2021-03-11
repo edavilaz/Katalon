@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para crear una calificación</description>
+   <name>CalificaciónCrearCalificacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18391200-0ec2-4e60-a0c3-ec2683b0f413</testCaseGuid>
+</TestCaseEntity>

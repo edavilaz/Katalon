@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Distribución Geográfica del Sistema
+Iconos Completos y con imagen</description>
+   <name>DistribuciónGeográfica</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e87bf70d-a445-4d63-859b-f7622753434b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Usuarios del sistema
+Iconos completos y con imagen</description>
+   <name>Usuarios</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61f4fc24-48ba-4352-8270-171a3aa7ac91</testCaseGuid>
+</TestCaseEntity>

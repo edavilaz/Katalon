@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Eliminar la asignación de una página a un perfil</description>
+   <name>PáginasXPerfilEliminar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f3afed8-a0a5-471a-9c23-308dd35efb18</testCaseGuid>
+</TestCaseEntity>

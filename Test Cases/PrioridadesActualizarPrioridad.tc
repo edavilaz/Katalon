@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para actualizar una prioridad</description>
+   <name>PrioridadesActualizarPrioridad</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeac2d29-34e8-4e16-ad75-442984d5f55e</testCaseGuid>
+</TestCaseEntity>

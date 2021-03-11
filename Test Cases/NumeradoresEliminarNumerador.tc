@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para eliminar un numerador creado</description>
+   <name>NumeradoresEliminarNumerador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3e42b96-0f3c-495e-8c9c-c276ccef26cf</testCaseGuid>
+</TestCaseEntity>

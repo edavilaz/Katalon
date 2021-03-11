@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>proceso para eliminar un selector 2</description>
+   <name>SelectoresEliminarSelector</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27efed65-75e2-4483-b31d-5932e9226591</testCaseGuid>
+</TestCaseEntity>

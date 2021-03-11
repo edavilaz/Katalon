@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pagina de Inicio
+Validar Imagenes e iconos completos</description>
+   <name>Inicio</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15152b30-c650-46ac-857c-1f1c598baceb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceso para crear una cola</description>
+   <name>JerarquiaYColasCrearCola</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bafc6624-bfb1-417b-91cd-46a10a42705e</testCaseGuid>
+</TestCaseEntity>
